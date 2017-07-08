@@ -36,6 +36,11 @@
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;
 	}
+	
+	ul{
+		list-style: none;
+		text-align:center;
+	}
 
 
 
